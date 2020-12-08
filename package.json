@@ -1,16 +1,8 @@
 {
-	"name": "jimu",
-	"version": "0.6.1",
+	"name": "wab-app-libs",
+	"version": "1.0",
 	"main": "main",
-	"dependencies": {
-		"dojo": "",
-		"dijit": "",
-		"dojox": "",
-		"util": "",
-		"esri": "",
-		"esri3d": ""
-	},
-	"description": "a configurable app core",
+	"description": "ArcGIS Web Application libs",
 	"bugs": "",
 	"dojoBuild": "package.js"
 }
