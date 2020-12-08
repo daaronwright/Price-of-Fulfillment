@@ -1,8 +1,8 @@
 {
-	"name": "wab-app-libs",
-	"version": "1.0",
+	"name": "libs",
+	"version": "2.18",
 	"main": "main",
-	"description": "ArcGIS Web Application libs",
+	"description": "ArcGIS Web Application stemapp libs",
 	"bugs": "",
 	"dojoBuild": "package.js"
 }
